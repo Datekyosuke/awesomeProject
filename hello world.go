@@ -3,5 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("I like Go!")
+
+	a := 1.01
+
+	b := 0.99
+
+	fmt.Println(a - b)
+
 }
